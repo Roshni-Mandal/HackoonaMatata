@@ -2,7 +2,7 @@ import { RpgPlayer, RpgPlayerHooks, Control, Components } from '@rpgjs/server'
 
 export const player: RpgPlayerHooks = {
     onConnected(player: RpgPlayer) {
-        player.name = 'YourName'
+        player.name = 'Dharmendra'
         player.setGraphic('male012')
         player.setHitbox(16, 16)
         player.setComponentsTop(Components.text('{name}'))

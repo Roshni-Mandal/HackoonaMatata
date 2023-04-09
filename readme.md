@@ -1,7 +1,10 @@
 
-# Hacklipse3.0 Hackathon
 
-# Fatafat Finance 
+<p align="center">
+ Hacklipse3.0 Hackathon 2023
+</p>
+
+## Fatafat Finance 
 - 🔴 Our interactive MMORPG is designed to help young adults develop crucial financial literacy skills in a fun and engaging way.
 
 

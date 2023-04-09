@@ -5,7 +5,7 @@
 
 ![1](https://user-images.githubusercontent.com/78801686/230759248-2b7eccea-607e-4878-8c15-3566bd84997f.png)
 
-# The problem 🎉 Fatafat Finance solves
+# The problem solves
 
 - ♻️ Our inspiration for creating Fatafat Finance came from the recognition that managing finances can be daunting, and that many individuals may find it challenging to make informed decisions in this area. We have personally faced similar struggles and have learned from our own experiences. In our journey, we have sought guidance from mentors and learned the best practices through trial and error.
 

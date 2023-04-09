@@ -45,7 +45,7 @@
 
 # ✔️ What's next
 
-~~~
+
 Fatafat Finance has many exciting plans for the future. Here are some potential next steps for the game:
 
 - Larger database and more activities: 

@@ -1,0 +1,3 @@
+[sqlalchemy.dialects]
+cockroachdb = cockroachdb.sqlalchemy.dialect:CockroachDBDialect
+

@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: cockroachdb
+Version: 0.3.5
+Summary: CockroachDB adapter for SQLAlchemy
+Home-page: https://github.com/cockroachdb/cockroachdb-python
+Author: Cockroach Labs
+Author-email: cockroach-db@googlegroups.com
+License: http://www.apache.org/licenses/LICENSE-2.0
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
+
+This package has changed names.
+
+Please use [sqlalchemy-cockroachdb](https://pypi.org/project/sqlalchemy-cockroachdb/).
+
+

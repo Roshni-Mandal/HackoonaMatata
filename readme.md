@@ -1,5 +1,7 @@
+
 # Hacklipse3.0 Hackathon
-# Fatafat Finance
+
+# Fatafat Finance 
 - 🔴 Our interactive MMORPG is designed to help young adults develop crucial financial literacy skills in a fun and engaging way.
 
 
@@ -30,6 +32,7 @@
 - 🟢Each NPC in the game provides players with helpful tips and information that are relevant to their respective categories. Through engaging gameplay and interactive features, Fatafat Finance aims to provide an exciting and immersive way for players to learn about finance.
 
 # Technologies we used
+~~~
 - React Js
 - Vue.js
 - Html/Css
@@ -38,20 +41,28 @@
 - Node Js
 - WebGL
 
+~~~
+
 # ✔️ What's next
 
+~~~
 Fatafat Finance has many exciting plans for the future. Here are some potential next steps for the game:
 
-- Larger database and more activities: The game can be expanded to include more financial activities and scenarios, such as investing in real estate, managing a small business, or navigating the tax system.
+- Larger database and more activities: 
+  The game can be expanded to include more financial activities and scenarios, such as investing in real estate, managing a small business, or navigating the tax system.
 
-- Carbon footprint tracking: As environmental concerns become increasingly important, Fatafat Finance could include a feature to track a user's carbon footprint and offer suggestions for reducing their environmental impact.
+- Carbon footprint tracking: 
+  As environmental concerns become increasingly important, Fatafat Finance could include a feature to track a user's carbon footprint and offer suggestions for reducing their environmental impact.
 
-- In-depth systems for the stock market: To provide more advanced financial education, the game could incorporate a more detailed stock market system, with real-time updates on stock prices and news alerts.
+- In-depth systems for the stock market: 
+  To provide more advanced financial education, the game could incorporate a more detailed stock market system, with real-time updates on stock prices and news alerts.
 
-- Increased map size: To make the game more engaging and immersive, the map size could be expanded to include more areas and activities for players to explore.
+- Increased map size: 
+  To make the game more engaging and immersive, the map size could be expanded to include more areas and activities for players to explore.
 
-- Ability to add/drop jobs: To simulate the real world more accurately, Fatafat Finance could allow players to add or drop jobs throughout the game, which would affect their income and financial situation.
+- Ability to add/drop jobs:  
+  To simulate the real world more accurately, Fatafat Finance could allow players to add or drop jobs throughout the game, which would affect their income and financial situation.
 
 ## 🔗 Links
-[[Video Link](https://youtu.be/hEpb27P4ExU)
-[[Canva](https://www.canva.com/design/DAFfjMXgCvE/dnh9WgG2qObREOWoVZg7xQ/edit?utm_content=DAFfjMXgCvE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+- [Video Link](https://youtu.be/hEpb27P4ExU)
+- [Canva](https://www.canva.com/design/DAFfjMXgCvE/dnh9WgG2qObREOWoVZg7xQ/edit?utm_content=DAFfjMXgCvE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

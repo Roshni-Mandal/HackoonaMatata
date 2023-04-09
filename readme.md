@@ -1,61 +1,21 @@
-# RPG JS Game
 
-This is a project template for [RPGJS](https://rpgjs.dev) apps. It lives at https://github.com/rpgjs/starter.
+# Fatafat Finance
+- 🔴 Our interactive MMORPG is designed to help young adults develop crucial financial literacy skills in a fun and engaging way.
 
-To create a new project based on this template using [degit](https://github.com/Rich-Harris/degit):
+# The problem 🎉 Fatafat Finance solves
 
-```bash
-npx degit rpgjs/starter rpg-app
-cd rpg-app
-```
+- ♻️ Our inspiration for creating Fatafat Finance came from the recognition that managing finances can be daunting, and that many individuals may find it challenging to make informed decisions in this area. We have personally faced similar struggles and have learned from our own experiences. In our journey, we have sought guidance from mentors and learned the best practices through trial and error.
 
-*Note that you will need to have [Node.js 14 only](https://nodejs.org) installed.*
+- 🟢 We realized that creating a virtual financial platform that simulates real-world financial decisions and rewards users with virtual money, while also being gamified and fun, could be an effective way to teach financial literacy. By providing a safe and engaging space to practice decision-making and money management, we hope to help users build financial confidence and gain a better understanding of the financial system.
+ 
+- 🟢 Fatafat Finance is an innovative and exciting game that has been designed to teach players about the different aspects of finance. Players will learn about crucial financial topics such as stocks, APR, money management, credit scores, and mortgages.
 
-## Get started
+- 🟢 Players will be immersed in the game, assuming the role of a character who receives tasks assigned by non-playable characters (NPCs). Completing these tasks will earn players money, which can be used to purchase items from the in-game store. Additionally, players with good credit scores will have the option of taking out loans from the bank to purchase a home.
 
-Install the dependencies...
-
-```bash
-cd rpg-app
-npm install
-npm run dev
-```
-
-Navigate to [localhost:3000](http://localhost:3000). You should see your game running. Edit a file in `src`, save it, and reload the page to see your changes.
-
-> Launch in RPG mode with `RPG_TYPE=rpg npm run dev`
-
-## Production
-
-### Build with NodeJS
-
-```bash
-NODE_ENV=production npm run build
-```
-
-### Build with Docker
-
-```bash
-sudo docker build -t rpg .
-sudo docker run -p 3000:3000 -d rpg
-```
-
-## Resources
-
-[Documentation](https://docs.rpgjs.dev)
-[Community Help](https://community.rpgjs.dev)
-
-## Credits for Sample package assets
-
-### Sounds
-
-[Davidvitas](https://www.davidvitas.com/portfolio/2016/5/12/rpg-music-pack)
-Attribution 4.0 International (CC BY 4.0)- https://creativecommons.org/licenses/by/4.0/deed.en
-
-### Graphics
-
-[Pipoya](https://pipoya.itch.io)
-
-### Icons
-
-https://game-icons.net
+- 🟢Each NPC in the game provides players with helpful tips and information that are relevant to their respective categories. Through engaging gameplay and interactive features, Fatafat Finance aims to provide an exciting and immersive way for players to learn about finance.
+✔️ What's next
+- Larger database, and more activities.
+- Ability to track the users carbon footprint
+- In depth systems for the stock market.
+- Increase/more the map size
+- Ability to add/drop j

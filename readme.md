@@ -1,4 +1,4 @@
-
+# Hacklipse3.0 Hackathon
 # Fatafat Finance
 - 🔴 Our interactive MMORPG is designed to help young adults develop crucial financial literacy skills in a fun and engaging way.
 
@@ -14,9 +14,18 @@
 
 - 🟢Each NPC in the game provides players with helpful tips and information that are relevant to their respective categories. Through engaging gameplay and interactive features, Fatafat Finance aims to provide an exciting and immersive way for players to learn about finance.
 
+# Technologies we used
+- React Js
+- Vue.js
+- Html/Css
+- Javascript
+- Python/Flask
+- Node Js
+- WebGL
+
 # ✔️ What's next
 - Larger database, and more activities.
 - Ability to track the users carbon footprint
 - In depth systems for the stock market.
 - Increase/more the map size
-- Ability to add/drop j
+- Ability to add/drop jobs

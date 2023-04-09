@@ -51,3 +51,7 @@ Fatafat Finance has many exciting plans for the future. Here are some potential 
 - Increased map size: To make the game more engaging and immersive, the map size could be expanded to include more areas and activities for players to explore.
 
 - Ability to add/drop jobs: To simulate the real world more accurately, Fatafat Finance could allow players to add or drop jobs throughout the game, which would affect their income and financial situation.
+
+## 🔗 Links
+[![Video Link](https://youtu.be/hEpb27P4ExU)
+[![Canva](https://www.canva.com/design/DAFfjMXgCvE/dnh9WgG2qObREOWoVZg7xQ/edit?utm_content=DAFfjMXgCvE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

@@ -13,7 +13,8 @@
 - 🟢 Players will be immersed in the game, assuming the role of a character who receives tasks assigned by non-playable characters (NPCs). Completing these tasks will earn players money, which can be used to purchase items from the in-game store. Additionally, players with good credit scores will have the option of taking out loans from the bank to purchase a home.
 
 - 🟢Each NPC in the game provides players with helpful tips and information that are relevant to their respective categories. Through engaging gameplay and interactive features, Fatafat Finance aims to provide an exciting and immersive way for players to learn about finance.
-✔️ What's next
+
+# ✔️ What's next
 - Larger database, and more activities.
 - Ability to track the users carbon footprint
 - In depth systems for the stock market.

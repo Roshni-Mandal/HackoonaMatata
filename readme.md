@@ -1,14 +1,12 @@
 
 
 <p align="center">
- Hacklipse3.0 Hackathon 2023
+Hackoona Matata Hackathon 2023
 </p>
 
 ## Fatafat Finance 
 - 🔴 Our interactive MMORPG is designed to help young adults develop crucial financial literacy skills in a fun and engaging way.
 
-
-![1](https://user-images.githubusercontent.com/78801686/230759248-2b7eccea-607e-4878-8c15-3566bd84997f.png)
 
 # The problem solves
 
@@ -67,5 +65,5 @@ Fatafat Finance has many exciting plans for the future. Here are some potential 
   To simulate the real world more accurately, Fatafat Finance could allow players to add or drop jobs throughout the game, which would affect their income and financial situation.
 
 ## 🔗 Links
-- [Video Link](https://youtu.be/hEpb27P4ExU)
+- [Video Link]()
 - [Canva](https://www.canva.com/design/DAFfjMXgCvE/dnh9WgG2qObREOWoVZg7xQ/edit?utm_content=DAFfjMXgCvE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
